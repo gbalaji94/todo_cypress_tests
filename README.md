@@ -7,4 +7,4 @@
 **Steps :**
 1. Run `npm install`.
 2. Run `npm start` to start cypress.
-3. Refer the Test Cases in `TestCase` directory.
+3. Refer `Todo TestCases.xlsx` in the `TestCase` directory.

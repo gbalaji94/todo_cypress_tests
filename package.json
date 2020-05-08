@@ -1,0 +1,17 @@
+{
+  "name": "cypress_tests",
+  "version": "1.0.0",
+  "description": "Todo Automation",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/cypress open"
+  },
+  "author": "Balaji",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^4.5.0"
+  },
+  "devDependencies": {
+    "eslint-plugin-cypress": "^2.10.3"
+  }
+}
